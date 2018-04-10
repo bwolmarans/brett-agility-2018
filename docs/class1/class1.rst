@@ -5,6 +5,7 @@ Class - |classname|
 
 This class covers the following topics:
 
+- This is SO MUCH EASIER than editing in MS-Word!!!
 - Downloading a |f5| |bip| |ve|
 - Installing a |bip| |ve| image on a hypervisor
 - Installing a |f5| |bip| Appliance

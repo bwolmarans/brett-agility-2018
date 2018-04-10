@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Getting Started with F5 BIG-IP"
+classname = "AFM The Advanced Firewall"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/your-class-repo"
+github_repo = "https://github.com/bwolmarans/brett-agility-2018"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
